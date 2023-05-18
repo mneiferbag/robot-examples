@@ -27,4 +27,4 @@ Run all tests with `robot --outputdir ./log ./robots/*/*.robot`.
 
 ## Tasks
 
-- [ ] Create simple JSON example
+- [ ] Add simple JSON example
